@@ -17,5 +17,5 @@ ambient_light_sky_contribution = 0.6
 fog_enabled = true
 fog_color = Color( 0.968627, 0.968627, 0.968627, 1 )
 fog_sun_color = Color( 1, 1, 1, 1 )
-fog_depth_curve = 1.56917
-fog_transmit_curve = 0.68302
+fog_depth_begin = 30.0
+fog_depth_end = 200.0
